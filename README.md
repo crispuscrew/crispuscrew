@@ -8,7 +8,7 @@
 
 ---
 
-Systems software engineer with 3+ years in embedded systems and robotics. Currently building Go services and C++ components at a robotics company. Background in ARM Linux, real-time systems, and cross-team delivery. Won grant competition by RSC Energia · Gazprom Neft accelerator.
+Go engineer with a background in systems and C++ embedded/robotics. Built production gRPC/protobuf services, REST backends, and TUI tooling
 
 ---
 
