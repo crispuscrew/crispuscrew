@@ -10,7 +10,7 @@
 
 ---
 
-Go backend engineer. I build production gRPC/protobuf services, REST backends and developer tooling, and I open-source my Go tooling. A concurrent-RPC gateway of mine benchmarks at ~14k RPC/s (p50 0.7 ms), fanning many in-flight RPCs over one pooled link with response correlation, per-request timeouts and backpressure.
+Go backend engineer. Production gRPC/protobuf services, REST backends and open-source developer tooling. A concurrent-RPC gateway benchmarked at ~14k RPC/s (p50 0.7 ms) on 4 cores of an arm64 SoC: many in-flight RPCs over one pooled link, with response correlation, per-request timeouts and backpressure.
 
 ---
 
