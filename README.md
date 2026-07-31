@@ -1,5 +1,5 @@
 <h1 align="center">Ruslan Gabzetdinov</h1>
-<p align="center">Go Backend Engineer · gRPC / Protocol Buffers · high-throughput services</p>
+<p align="center">Go Backend Engineer | gRPC / Protocol Buffers | high-throughput services</p>
 <p align="center">
   <a href="mailto:gabzetdinov@proton.me"><img src="https://img.shields.io/badge/gabzetdinov%40proton.me-8B89CC?style=flat&logo=protonmail&logoColor=white"/></a>
   &nbsp;
@@ -10,7 +10,7 @@
 
 ---
 
-Go backend engineer. Production gRPC/protobuf services, REST backends and open-source developer tooling. A concurrent-RPC gateway benchmarked at ~14k RPC/s (p50 0.7 ms) on 4 cores of an arm64 SoC: many in-flight RPCs over one pooled link, with response correlation, per-request timeouts and backpressure.
+Go backend engineer. Production gRPC/protobuf services, REST backends and open-source developer tooling. A concurrent-RPC gateway benchmarked at ~14k RPC/s (p50 0.7 ms) on 4 cores of an arm64 SoC, not server hardware: many in-flight RPCs over one pooled link, with response correlation, per-request timeouts and backpressure.
 
 ---
 
